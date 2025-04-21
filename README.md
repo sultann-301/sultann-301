@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sultann-301
-- 👀 I’m interested in web development/ app development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in all kinds of software
+- 🌱 I’m currently learning cybersecurity/Machine Learning/Data Science
 
 - 📫 How to reach me: my email: mohamed.sultan3235@gmail.com
 
