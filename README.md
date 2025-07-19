@@ -9,9 +9,9 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sultann-301&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="My GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sultann-301&theme=tokyonight&count_private=true&border_radius=10&locale=en" alt="sultann-301's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=sultann-301&theme=tokyonight&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="My Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sultann-301&theme=dark&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="My GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sultann-301&theme=dark&count_private=true&border_radius=10&locale=en" alt="sultann-301's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=sultann-301&theme=dark&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="My Most Used Languages" />
 </div>
 
 <hr>
