@@ -7,7 +7,7 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{sultann-301}/count.svg" alt="Visitor's Count" />
+ <img src="https://profile-counter.deno.dev/sultann-301/count.svg" alt="Key:: Visitor's Count" />
 </div>
 <!---
 sultann-301/sultann-301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
